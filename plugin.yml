@@ -1,0 +1,6 @@
+name: ClanAddon
+author: plocki
+version: 1.0
+main: de.plocki.clansystem.main.Main
+commands:
+   clan:
